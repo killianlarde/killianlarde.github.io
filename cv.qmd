@@ -1,0 +1,7 @@
+---
+title: "Curriculum Vitae"
+---
+
+I am a graduate student at the Paris School of Economics with interests in applied microeconomics, policy evaluation, and econometrics. My work focuses on causal inference and evidence-based public policy.
+
+[Download CV (PDF)](files/CV.pdf){.btn .btn-academic}

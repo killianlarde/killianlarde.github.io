@@ -1,0 +1,13 @@
+---
+title: "Writing"
+---
+
+I occasionally write short pieces about economics and public policy.
+
+**Substack:** Soon available
+
+## Featured posts
+- [Policy evaluation and counterfactual thinking](https://example.com)
+- [Why municipal data matters](https://example.com)
+- [What makes a credible quasi-experiment?](https://example.com)
+- [Notes on transparent research workflows](https://example.com)

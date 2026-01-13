@@ -1,0 +1,44 @@
+---
+title: "Projects"
+---
+
+A selection of ongoing and recent academic projects.
+
+::: {.columns}
+::: {.column width="33%"}
+::: {.card}
+::: {.card-body}
+### Labor Market Dynamics
+Short-run effects of minimum wage reforms using matched employer-employee data.
+
+- [GitHub](https://github.com/killianlarde)
+- [Project PDF](files/projects/labor-market.pdf)
+- [Research note](files/projects/labor-market-note.pdf)
+:::
+:::
+:::
+::: {.column width="33%"}
+::: {.card}
+::: {.card-body}
+### Local Public Spending
+A spatial panel study of municipal investment and fiscal multipliers.
+
+- [GitHub](https://github.com/killianlarde)
+- [Project PDF](files/projects/public-spending.pdf)
+- [Research note](files/projects/public-spending-note.pdf)
+:::
+:::
+:::
+::: {.column width="33%"}
+::: {.card}
+::: {.card-body}
+### Education Outcomes
+Evidence on early interventions and long-term academic performance.
+
+- [GitHub](https://github.com/killianlarde)
+- [Project PDF](files/projects/education-outcomes.pdf)
+- [Research note](files/projects/education-outcomes-note.pdf)
+:::
+:::
+:::
+:::

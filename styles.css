@@ -1,0 +1,66 @@
+:root {
+  --academic-navy: #1b2a41;
+  --academic-gray: #4f5b66;
+  --academic-light: #f7f7f8;
+}
+
+body {
+  font-family: "Source Serif Pro", "Georgia", serif;
+  color: var(--academic-navy);
+  background-color: var(--academic-light);
+}
+
+.navbar {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.navbar-brand {
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+
+h1, h2, h3, h4 {
+  font-family: "Source Sans Pro", "Helvetica", sans-serif;
+  color: var(--academic-navy);
+}
+
+.lead {
+  color: var(--academic-gray);
+}
+
+.card {
+  border: 1px solid rgba(27, 42, 65, 0.12);
+  box-shadow: 0 8px 24px rgba(27, 42, 65, 0.06);
+}
+
+.card .card-title {
+  font-weight: 600;
+}
+
+.card .card-text {
+  color: var(--academic-gray);
+}
+
+.academic-section {
+  margin-top: 3rem;
+}
+
+.table {
+  background: white;
+}
+
+.footer {
+  border-top: 1px solid rgba(27, 42, 65, 0.15);
+}
+
+.btn-academic {
+  background: var(--academic-navy);
+  color: white;
+  border: none;
+  padding: 0.65rem 1.4rem;
+}
+
+.btn-academic:hover {
+  background: #111c2c;
+  color: white;
+}

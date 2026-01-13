@@ -1,0 +1,11 @@
+---
+title: "Teaching"
+---
+
+Below is a selection of courses for the 2026–2027 academic year. Materials will be updated as the semester progresses.
+
+| Course | Year | Materials |
+| --- | --- | --- |
+| Econometrics I | 2026–2027 | [Syllabus](files/teaching/econometrics/syllabus.pdf) · [Lecture 1 Slides](files/teaching/econometrics/lecture-1.pdf) |
+| Microeconomics | 2026–2027 | [Syllabus](files/teaching/microeconomics/syllabus.pdf) · [Problem Set 1](files/teaching/microeconomics/problem-set-1.pdf) |
+| Public Policy Analysis | 2026–2027 | [Syllabus](files/teaching/public-policy/syllabus.pdf) · [Policy Briefing](files/teaching/public-policy/briefing.pdf) |
