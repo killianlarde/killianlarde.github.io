@@ -2,18 +2,23 @@
 title: "Projects"
 ---
 
-A selection of ongoing and recent academic projects.
+A curated selection of ongoing and recent academic projects.
 
 ::: {.columns}
 ::: {.column width="33%"}
 ::: {.card}
 ::: {.card-body}
 ### Labor Market Dynamics
+
 Short-run effects of minimum wage reforms using matched employer-employee data.
 
-- [GitHub](https://github.com/killianlarde)
-- [Project PDF](files/projects/labor-market.pdf)
-- [Research note](files/projects/labor-market-note.pdf)
+<span class="tag">Econometrics</span><span class="tag">Labor</span>
+
+<div class="project-links">
+[GitHub](https://github.com/killianlarde)
+[Project PDF](files/projects/labor-market.pdf)
+[Research note](files/projects/labor-market-note.pdf)
+</div>
 :::
 :::
 :::
@@ -21,11 +26,16 @@ Short-run effects of minimum wage reforms using matched employer-employee data.
 ::: {.card}
 ::: {.card-body}
 ### Local Public Spending
+
 A spatial panel study of municipal investment and fiscal multipliers.
 
-- [GitHub](https://github.com/killianlarde)
-- [Project PDF](files/projects/public-spending.pdf)
-- [Research note](files/projects/public-spending-note.pdf)
+<span class="tag">Public Finance</span><span class="tag">Spatial</span>
+
+<div class="project-links">
+[GitHub](https://github.com/killianlarde)
+[Project PDF](files/projects/public-spending.pdf)
+[Research note](files/projects/public-spending-note.pdf)
+</div>
 :::
 :::
 :::
@@ -33,12 +43,23 @@ A spatial panel study of municipal investment and fiscal multipliers.
 ::: {.card}
 ::: {.card-body}
 ### Education Outcomes
+
 Evidence on early interventions and long-term academic performance.
 
-- [GitHub](https://github.com/killianlarde)
-- [Project PDF](files/projects/education-outcomes.pdf)
-- [Research note](files/projects/education-outcomes-note.pdf)
+<span class="tag">Policy</span><span class="tag">Education</span>
+
+<div class="project-links">
+[GitHub](https://github.com/killianlarde)
+[Project PDF](files/projects/education-outcomes.pdf)
+[Research note](files/projects/education-outcomes-note.pdf)
+</div>
 :::
 :::
 :::
 :::
+
+## Additional research
+
+- **Green innovation and local spillovers** — empirical analysis of patent diffusion and productivity gains.
+- **Tax compliance nudges** — randomized field experiment on behavioral policy design.
+- **Urban mobility data** — dashboards for policy evaluation and transportation planning.

@@ -2,11 +2,12 @@
 title: "Writing"
 ---
 
-I occasionally write short pieces about economics and public policy.
+I write short pieces about economics, public policy, and empirical methods.
 
-**Substack:** Soon available
+[Read on Substack](https://example.com){.btn-cta}
 
 ## Featured posts
+
 - [Policy evaluation and counterfactual thinking](https://example.com)
 - [Why municipal data matters](https://example.com)
 - [What makes a credible quasi-experiment?](https://example.com)

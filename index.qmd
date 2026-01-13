@@ -1,33 +1,63 @@
 ---
 title: "Killian LARDE"
 subtitle: "Paris School of Economics (Master 1)"
+page-layout: full
 ---
 
-Welcome to my academic profile. I am a graduate student focused on applied economics, public policy, and quantitative methods. My current work blends rigorous econometric tools with policy-relevant questions, with an emphasis on transparency and reproducible research.
+::: {.hero}
+::: {.columns .hero-grid}
+::: {.column width="35%"}
+![](assets/profile.jpg){.profile-photo alt="Portrait of Killian LARDE"}
+:::
+::: {.column width="65%"}
+# Killian LARDE {.hero-title}
 
-I am open to research collaborations and teaching opportunities.
+**Paris School of Economics (Master 1)** {.hero-subtitle}
 
-::: {.academic-section}
-## Explore
+I am a graduate student focused on applied microeconomics, public policy, and quantitative methods. My work combines rigorous econometric tools with policy-relevant questions, with an emphasis on transparency, reproducibility, and real-world impact.
 
-::: {.columns}
+Research interests: causal inference, public finance, labor markets.
+
+::: {.hero-actions}
+[Download CV](files/CV.pdf){.btn-cta}
+[Email](mailto:killian.lardee@gmail.com){.btn-cta .secondary}
+[Substack](https://example.com){.btn-cta .secondary}
+:::
+:::
+:::
+:::
+
+## Featured
+
+::: {.columns .featured-grid}
 ::: {.column width="33%"}
+::: {.card}
+::: {.card-body}
 ### Teaching
-Courses, syllabi, and teaching materials for 2026–2027.
+Hands-on quantitative courses with practical applications and reproducible workflows.
 
-[Go to Teaching →](teaching.qmd)
+[Explore teaching →](teaching.qmd){.card-link}
+:::
+:::
 :::
 ::: {.column width="33%"}
+::: {.card}
+::: {.card-body}
 ### Projects
-Selected academic and data projects with links and notes.
+Selected research and data projects spanning applied econometrics and policy evaluation.
 
-[Go to Projects →](projects.qmd)
+[Explore projects →](projects.qmd){.card-link}
+:::
+:::
 :::
 ::: {.column width="33%"}
+::: {.card}
+::: {.card-body}
 ### Writing
-Short-form writing and featured posts.
+Short-form essays and notes on evidence, methods, and public policy.
 
-[Go to Writing →](writing.qmd)
+[Explore writing →](writing.qmd){.card-link}
+:::
 :::
 :::
 :::
