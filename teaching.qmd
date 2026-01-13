@@ -4,8 +4,34 @@ title: "Teaching"
 
 Below is a selection of courses for the 2026–2027 academic year. Materials will be updated as the semester progresses.
 
+## Course overview
+
 | Course | Year | Materials |
 | --- | --- | --- |
 | Econometrics I | 2026–2027 | [Syllabus](files/teaching/econometrics/syllabus.pdf) · [Lecture 1 Slides](files/teaching/econometrics/lecture-1.pdf) |
 | Microeconomics | 2026–2027 | [Syllabus](files/teaching/microeconomics/syllabus.pdf) · [Problem Set 1](files/teaching/microeconomics/problem-set-1.pdf) |
 | Public Policy Analysis | 2026–2027 | [Syllabus](files/teaching/public-policy/syllabus.pdf) · [Policy Briefing](files/teaching/public-policy/briefing.pdf) |
+
+## Econometrics I
+
+Foundations in causal inference, regression diagnostics, and empirical strategy design.
+
+- **Format:** weekly lecture + lab sessions.
+- **Core materials:** [Syllabus](files/teaching/econometrics/syllabus.pdf), [Lecture 1 Slides](files/teaching/econometrics/lecture-1.pdf).
+- **Assessment:** problem sets + applied replication exercise.
+
+## Microeconomics
+
+Decision-making under uncertainty, consumer theory, and equilibrium analysis with applied problem sets.
+
+- **Format:** lecture + tutorials.
+- **Core materials:** [Syllabus](files/teaching/microeconomics/syllabus.pdf), [Problem Set 1](files/teaching/microeconomics/problem-set-1.pdf).
+- **Assessment:** midterm + data-driven case study.
+
+## Public Policy Analysis
+
+Evidence-based policy evaluation with a focus on public finance and program design.
+
+- **Format:** lecture + policy lab.
+- **Core materials:** [Syllabus](files/teaching/public-policy/syllabus.pdf), [Policy Briefing](files/teaching/public-policy/briefing.pdf).
+- **Assessment:** policy memo + presentation.

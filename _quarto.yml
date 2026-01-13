@@ -30,11 +30,17 @@ website:
         aria-label: "LinkedIn"
   page-footer:
     left: "© 2026 Killian LARDE"
-    right: "Built with Quarto"
+    right: |
+      <a class="footer-link" href="https://github.com/killianlarde" aria-label="GitHub">
+        <i class="bi bi-github"></i>
+      </a>
+      <a class="footer-link" href="https://www.linkedin.com/in/killian-lard%C3%A9" aria-label="LinkedIn">
+        <i class="bi bi-linkedin"></i>
+      </a>
   open-graph:
     title: "Killian LARDE"
     description: "Academic profile of Killian LARDE, Paris School of Economics (Master 1)."
-    image: "assets/favicon.svg"
+    image: "assets/profile.jpg"
   favicon: "assets/favicon.svg"
 
 format:

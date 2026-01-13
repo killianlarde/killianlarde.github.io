@@ -2,6 +2,14 @@
 title: "Curriculum Vitae"
 ---
 
-I am a graduate student at the Paris School of Economics with interests in applied microeconomics, policy evaluation, and econometrics. My work focuses on causal inference and evidence-based public policy.
+I am a graduate student at the Paris School of Economics focused on applied microeconomics, policy evaluation, and econometrics. My work emphasizes causal inference, transparent workflows, and evidence-based public policy.
 
-[Download CV (PDF)](files/CV.pdf){.btn .btn-academic}
+::: {.callout-note}
+## Quick summary
+
+- **Fields:** applied microeconomics, public finance, labor economics.
+- **Methods:** causal inference, panel data, program evaluation.
+- **Software:** R, Stata, Python.
+:::
+
+[Download CV (PDF)](files/CV.pdf){.btn-cta}
