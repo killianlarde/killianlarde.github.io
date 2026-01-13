@@ -1,0 +1,33 @@
+---
+title: "Killian LARDE"
+subtitle: "Paris School of Economics (Master 1)"
+---
+
+Welcome to my academic profile. I am a graduate student focused on applied economics, public policy, and quantitative methods. My current work blends rigorous econometric tools with policy-relevant questions, with an emphasis on transparency and reproducible research.
+
+I am open to research collaborations and teaching opportunities.
+
+::: {.academic-section}
+## Explore
+
+::: {.columns}
+::: {.column width="33%"}
+### Teaching
+Courses, syllabi, and teaching materials for 2026–2027.
+
+[Go to Teaching →](teaching.qmd)
+:::
+::: {.column width="33%"}
+### Projects
+Selected academic and data projects with links and notes.
+
+[Go to Projects →](projects.qmd)
+:::
+::: {.column width="33%"}
+### Writing
+Short-form writing and featured posts.
+
+[Go to Writing →](writing.qmd)
+:::
+:::
+:::

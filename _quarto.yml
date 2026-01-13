@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Killian LARDE"
+  site-url: "https://killianlarde.github.io"
+  description: "Academic profile of Killian LARDE, Paris School of Economics (Master 1)."
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "Writing"
+        href: writing.qmd
+      - text: "CV"
+        href: cv.qmd
+    right:
+      - icon: envelope
+        href: "mailto:killian.lardee@gmail.com"
+        aria-label: "Email"
+      - icon: github
+        href: "https://github.com/killianlarde"
+        aria-label: "GitHub"
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/killian-lard%C3%A9"
+        aria-label: "LinkedIn"
+  page-footer:
+    left: "© 2026 Killian LARDE"
+    right: "Built with Quarto"
+  open-graph:
+    title: "Killian LARDE"
+    description: "Academic profile of Killian LARDE, Paris School of Economics (Master 1)."
+    image: "assets/favicon.svg"
+  favicon: "assets/favicon.svg"
+
+format:
+  html:
+    theme: litera
+    css: styles.css
+    toc: false
+    smooth-scroll: true
