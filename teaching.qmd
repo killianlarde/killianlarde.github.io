@@ -8,10 +8,11 @@ Below is a selection of courses for the 2026–2027 academic year. Materials wil
 
 | Course | Year | Materials |
 | --- | --- | --- |
-| Econometrics I | 2026–2027 | [Syllabus](files/teaching/econometrics/syllabus.pdf) · [Lecture 1 Slides](files/teaching/econometrics/lecture-1.pdf) |
-| Microeconomics | 2026–2027 | [Syllabus](files/teaching/microeconomics/syllabus.pdf) · [Problem Set 1](files/teaching/microeconomics/problem-set-1.pdf) |
-| Public Policy Analysis | 2026–2027 | [Syllabus](files/teaching/public-policy/syllabus.pdf) · [Policy Briefing](files/teaching/public-policy/briefing.pdf) |
-
+| Microéconomie Avancée (Introduction) | 2026–2027 | [Syllabus / Planning](files/teaching/econometrics/syllabus.pdf) · [Introduction à la Microéconomie](files/teaching/econometrics/lecture-1.pdf) |
+| Microeconomics Avancée (séance 1) | 2026–2027 | [Cours et feuilles d'exercice à venir, voir syllabus](files/teaching/microeconomics/syllabus.pdf) |
+| Microeconomics Avancée (séance 2) | 2026–2027 | [Cours et feuilles d'exercice à venir](files/teaching/microeconomics/syllabus.pdf) |
+| Microeconomics Avancée (séance 3) | 2026–2027 | [Cours et feuilles d'exercice à venir](files/teaching/microeconomics/syllabus.pdf) |
+| Microeconomics Avancée (séance 4) | 2026–2027 | [Cours et feuilles d'exercice à venir](files/teaching/microeconomics/syllabus.pdf) |
 ## Econometrics I
 
 Foundations in causal inference, regression diagnostics, and empirical strategy design.
