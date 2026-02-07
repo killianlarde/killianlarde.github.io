@@ -12,7 +12,7 @@ page-layout: full
 ::: {.column width="65%"}
 # Killian LARDE {.hero-title}
 
-**Paris School of Economics (Master 1)** {.hero-subtitle}
+**Paris School of Economics (Master 1)** 
 
 I am a graduate student in the Master Analyse et Politique Economiques (APE). political economy and social choice theory. My academic focus centers on political economy, social choice theory, measurement of economic welfare. Specifically, I am also interested on issues related to national accounting, the economics of education, and intergenerational equity.
 
