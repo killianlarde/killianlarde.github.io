@@ -14,9 +14,9 @@ page-layout: full
 
 **Paris School of Economics (Master 1)** {.hero-subtitle}
 
-I am a graduate student focused on applied microeconomics, public policy, and quantitative methods. My work combines rigorous econometric tools with policy-relevant questions, with an emphasis on transparency, reproducibility, and real-world impact.
+I am a graduate student in the Master Analyse et Politique Economiques (APE). political economy and social choice theory. My academic focus centers on political economy, social choice theory, measurement of economic welfare. Specifically, I am also interested on issues related to national accounting, the economics of education, and intergenerational equity.
 
-Research interests: causal inference, public finance, labor markets.
+_Je suis étudiant au sein du master Analyse et Politique Économiques (APE). Mes interets portent principalement sur l'économie politique, la théorie du choix social et la mesure du bien-être. Je m'intéresse aussi aux enjeux liés à la comptabilité nationale, à l'économie de l'éducation et à l'équité intergénérationnelle._
 
 ::: {.hero-actions}
 [Download CV](files/CV.pdf){.btn-cta}
@@ -34,7 +34,7 @@ Research interests: causal inference, public finance, labor markets.
 ::: {.card}
 ::: {.card-body}
 ### Teaching
-Hands-on quantitative courses with practical applications and reproducible workflows.
+Upcoming: Advanced Microeconomics for undergraduate students (1st and 2nd year). À venir : Microéconomie avancée pour étudiants de licence (L1-L2).
 
 [Explore teaching →](teaching.qmd){.card-link}
 :::
@@ -44,7 +44,7 @@ Hands-on quantitative courses with practical applications and reproducible workf
 ::: {.card}
 ::: {.card-body}
 ### Projects
-Selected research and data projects spanning applied econometrics and policy evaluation.
+Selected research projects and coursework conducted during my graduate studies. Sélection de projets de recherche et de travaux réalisés au cours de mon cursus.
 
 [Explore projects →](projects.qmd){.card-link}
 :::
@@ -54,7 +54,7 @@ Selected research and data projects spanning applied econometrics and policy eva
 ::: {.card}
 ::: {.card-body}
 ### Writing
-Short-form essays and notes on evidence, methods, and public policy.
+Essays, op-eds, and commentary on current economic events. Essais, tribunes et opinions sur l'actualité économique.
 
 [Explore writing →](writing.qmd){.card-link}
 :::
