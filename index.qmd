@@ -21,7 +21,7 @@ _Je suis étudiant au sein du master Analyse et Politique Économiques (APE). Me
 ::: {.hero-actions}
 [Download CV](files/CV.pdf){.btn-cta}
 [Email](mailto:killian.lardee@gmail.com){.btn-cta .secondary}
-[Substack](https://example.com){.btn-cta .secondary}
+[Substack](https://substack.com/@killianlard){.btn-cta .secondary}
 :::
 :::
 :::
