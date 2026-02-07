@@ -7,7 +7,7 @@ page-layout: full
 ::: {.hero}
 ::: {.columns .hero-grid}
 ::: {.column width="35%"}
-![](assets/profile.jpg){.profile-photo alt="Portrait of Killian LARDE"}
+![](assets/figure1.jpg){.profile-photo alt="Portrait of Killian LARDE"}
 :::
 ::: {.column width="65%"}
 # Killian LARDE {.hero-title}
