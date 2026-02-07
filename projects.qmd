@@ -8,16 +8,15 @@ A curated selection of ongoing and recent academic projects.
 ::: {.column width="33%"}
 ::: {.card}
 ::: {.card-body}
-### Labor Market Dynamics
+### Double Reduction policy in China: an increase in fertility or informality?
 
-Short-run effects of minimum wage reforms using matched employer-employee data.
+Implications économiques de la politique de « Double Réduction » en Chine, en analysant si l'interdiction du soutien scolaire privé réduit réellement les coûts d'éducation ou déplace simplement la demande vers un marché informel.
 
-<span class="tag">Econometrics</span><span class="tag">Labor</span>
-
+<span class="tag">Public Policy</span><span class="tag">China</span>
 <div class="project-links">
 [GitHub](https://github.com/killianlarde)
 [Project PDF](files/projects/labor-market.pdf)
-[Research note](files/projects/labor-market-note.pdf)
+
 </div>
 :::
 :::
@@ -25,7 +24,7 @@ Short-run effects of minimum wage reforms using matched employer-employee data.
 ::: {.column width="33%"}
 ::: {.card}
 ::: {.card-body}
-### Local Public Spending
+### On Going : 
 
 A spatial panel study of municipal investment and fiscal multipliers.
 
