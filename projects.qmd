@@ -15,7 +15,7 @@ Implications économiques de la politique de « Double Réduction » en Chine, e
 <span class="tag">Public Policy</span><span class="tag">China</span>
 <div class="project-links">
 [GitHub](https://github.com/killianlarde)
-[Project PDF](files/projects/labor-market.pdf)
+[Project PDF](files/projects/Double Reduction policy in China.pdf)
 
 </div>
 :::
