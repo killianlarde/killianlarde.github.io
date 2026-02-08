@@ -14,7 +14,7 @@ Below is a selection of courses for the 2026–2027 academic year. Materials wil
 | Microeconomics Avancée (séance 3) | 2026–2027 | [Cours et feuilles d'exercice à venir](files/teaching/microeconomics/syllabus.pdf) |
 | Microeconomics Avancée (séance 4) | 2026–2027 | [Cours et feuilles d'exercice à venir](files/teaching/microeconomics/syllabus.pdf) |
 
-## Microeconomics
+## Le cours de Microéconomie Avancée
 
 This course is designed to make microeconomics feel useful again. Rather than letting formalism overshadow the questions that motivated the field in the first place, we put the standard microeconomic toolbox to work on concrete, often with surprising applications: why policies that look similar (subsidies vs. vouchers) can have very different effects, why collective decisions can fail even with “rational” individuals, why money matters once liquidity is taken seriously, and why measured inflation can differ from lived inflation. The aim is to show students that the standard framework is a powerful way to structure applied reasoning and make policy debates more precise. 
 
