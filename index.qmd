@@ -19,7 +19,7 @@ I am a graduate student in the Master Analyse et Politique Economiques (APE). po
 _Je suis étudiant au sein du master Analyse et Politique Économiques (APE). Mes interets portent principalement sur l'économie politique, la théorie du choix social et la mesure du bien-être. Je m'intéresse aussi aux enjeux liés à la comptabilité nationale, à l'économie de l'éducation et à l'équité intergénérationnelle._
 
 ::: {.hero-actions}
-[Download CV](files/CV.pdf){.btn-cta}
+[Download CV](files/cv DAUPHINE.pdf){.btn-cta}
 [Email](mailto:killian.lardee@gmail.com){.btn-cta .secondary}
 [Substack](https://substack.com/@killianlard){.btn-cta .secondary}
 :::
