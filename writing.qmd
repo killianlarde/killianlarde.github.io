@@ -2,13 +2,12 @@
 title: "Writing"
 ---
 
-I write short pieces about economics, public policy, and empirical methods.
+I write short pieces about economics, public policy, controversies and everything I have in mind :) .
 
-[Read on Substack](https://example.com){.btn-cta}
+[Read on Substack](https://substack.com/@killianlard){.btn-cta}
 
 ## Featured posts
 
-- [Policy evaluation and counterfactual thinking](https://example.com)
-- [Why municipal data matters](https://example.com)
-- [What makes a credible quasi-experiment?](https://example.com)
-- [Notes on transparent research workflows](https://example.com)
+- [Actualité et Opinion : la Préférence Française pour le Loisir serait elle Endogène ?](https://substack.com/@killianlard/note/p-186999163?utm_source=notes-share-action&r=2haezf)
+- [Petit manuel de théorie du vote a destination des étudiants](https://substack.com/@killianlard/note/p-186410756?utm_source=notes-share-action&r=2haezf)
+
