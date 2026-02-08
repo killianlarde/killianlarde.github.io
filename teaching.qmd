@@ -8,11 +8,11 @@ Below is a selection of courses for the 2026–2027 academic year. Materials wil
 
 | Course | Year | Materials |
 | --- | --- | --- |
-| Microéconomie Avancée (Introduction) | 2026–2027 | [Syllabus / Planning](files/teaching/econometrics/syllabus.pdf) · [Introduction à la Microéconomie](files/teaching/econometrics/lecture-1.pdf) |
-| Microeconomics Avancée (séance 1) | 2026–2027 | [Cours et feuilles d'exercice à venir, voir syllabus](files/teaching/microeconomics/syllabus.pdf) |
-| Microeconomics Avancée (séance 2) | 2026–2027 | [Cours et feuilles d'exercice à venir](files/teaching/microeconomics/syllabus.pdf) |
-| Microeconomics Avancée (séance 3) | 2026–2027 | [Cours et feuilles d'exercice à venir](files/teaching/microeconomics/syllabus.pdf) |
-| Microeconomics Avancée (séance 4) | 2026–2027 | [Cours et feuilles d'exercice à venir](files/teaching/microeconomics/syllabus.pdf) |
+| Microéconomie Avancée (Introduction) | 2026–2027 | [Syllabus / Planning](files/teaching/microeconomics/Syllabus.pdf) · [Introduction à la Microéconomie](files/teaching/microeconomics/Microéconomie Avancée introduction.pdf) |
+| Microeconomics Avancée (séance 1) | 2026–2027 | [Cours et feuilles d'exercice à venir, voir syllabus](files/teaching/microeconomics/Syllabus.pdf) |
+| Microeconomics Avancée (séance 2) | 2026–2027 | [Cours et feuilles d'exercice à venir](files/teaching/microeconomics/Syllabus.pdf) |
+| Microeconomics Avancée (séance 3) | 2026–2027 | [Cours et feuilles d'exercice à venir](files/teaching/microeconomics/Syllabus.pdf) |
+| Microeconomics Avancée (séance 4) | 2026–2027 | [Cours et feuilles d'exercice à venir](files/teaching/microeconomics/Syllabus.pdf) |
 
 ## Le cours de Microéconomie Avancée
 
