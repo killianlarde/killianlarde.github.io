@@ -32,7 +32,7 @@ Débat fondateur de l’économie politique entre Knut Wicksell et Vilfredo Pare
 
 <div class="project-links">
 [GitHub](https://github.com/killianlarde)
-[Project PDF](files/projects/public-spending.pdf)
+[Project PDF](files/projects/Wicksell et Pareto georgia.pdf)
 
 </div>
 :::
@@ -48,7 +48,7 @@ Note fictive à rédiger dans le cours de "Macroeconomic Policies" de A.Bénassy
 
 <div class="project-links">
 [GitHub](https://github.com/killianlarde)
-[Note PDF](files/projects/education-outcomes.pdf)
+
 
 </div>
 :::
