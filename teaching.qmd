@@ -13,26 +13,12 @@ Below is a selection of courses for the 2026–2027 academic year. Materials wil
 | Microeconomics Avancée (séance 2) | 2026–2027 | [Cours et feuilles d'exercice à venir](files/teaching/microeconomics/syllabus.pdf) |
 | Microeconomics Avancée (séance 3) | 2026–2027 | [Cours et feuilles d'exercice à venir](files/teaching/microeconomics/syllabus.pdf) |
 | Microeconomics Avancée (séance 4) | 2026–2027 | [Cours et feuilles d'exercice à venir](files/teaching/microeconomics/syllabus.pdf) |
-## Econometrics I
-
-Foundations in causal inference, regression diagnostics, and empirical strategy design.
-
-- **Format:** weekly lecture + lab sessions.
-- **Core materials:** [Syllabus](files/teaching/econometrics/syllabus.pdf), [Lecture 1 Slides](files/teaching/econometrics/lecture-1.pdf).
-- **Assessment:** problem sets + applied replication exercise.
 
 ## Microeconomics
 
-Decision-making under uncertainty, consumer theory, and equilibrium analysis with applied problem sets.
+This course is designed to make microeconomics feel useful again. Rather than letting formalism overshadow the questions that motivated the field in the first place, we put the standard microeconomic toolbox to work on concrete, often with surprising applications: why policies that look similar (subsidies vs. vouchers) can have very different effects, why collective decisions can fail even with “rational” individuals, why money matters once liquidity is taken seriously, and why measured inflation can differ from lived inflation. The aim is to show students that the standard framework is a powerful way to structure applied reasoning and make policy debates more precise. 
 
-- **Format:** lecture + tutorials.
-- **Core materials:** [Syllabus](files/teaching/microeconomics/syllabus.pdf), [Problem Set 1](files/teaching/microeconomics/problem-set-1.pdf).
-- **Assessment:** midterm + data-driven case study.
 
-## Public Policy Analysis
+_Ce cours est conçu pour donner goût à la microéconomie. Plutôt que de lasser l'étudiant avec encore plus de formalisme, on utilise la boîte à outils standard de la microéconomie dans des exemples concrets : pourquoi des mécanismes qui se ressemblent (subventions vs. bons d’achat) produisent des effets très différents, pourquoi le choix collectif peut échouer même avec des individus “rationnels”, pourquoi détenir de la monnaie compte dans une fonction d'utilité, et pourquoi l’inflation mesurée n'est pas l’inflation ressentie. L’objectif est de montrer que le cadre standard n’est pas une fin en soi : c’est un instrument utile pour raisonner sur des politiques publiques._ 
 
-Evidence-based policy evaluation with a focus on public finance and program design.
 
-- **Format:** lecture + policy lab.
-- **Core materials:** [Syllabus](files/teaching/public-policy/syllabus.pdf), [Policy Briefing](files/teaching/public-policy/briefing.pdf).
-- **Assessment:** policy memo + presentation.
