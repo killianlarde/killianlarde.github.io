@@ -24,16 +24,16 @@ Implications économiques de la politique de « Double Réduction » en Chine, e
 ::: {.column width="33%"}
 ::: {.card}
 ::: {.card-body}
-### On Going : 
+### On Going : Wicksell et Pareto, un débat fondateur de l’économie (du) politique.
 
-A spatial panel study of municipal investment and fiscal multipliers.
+Débat fondateur de l’économie politique entre Knut Wicksell et Vilfredo Pareto. Il explique pourquoi leurs idées centrales (unanimité optimalité) ont longtemps été perçues comme incompatibles, puis comment des économistes plus tardifs (notamment en “public choice”) ont fini par les rapprocher.
 
 <span class="tag">Public Finance</span><span class="tag">Spatial</span>
 
 <div class="project-links">
 [GitHub](https://github.com/killianlarde)
 [Project PDF](files/projects/public-spending.pdf)
-[Research note](files/projects/public-spending-note.pdf)
+
 </div>
 :::
 :::
@@ -41,24 +41,18 @@ A spatial panel study of municipal investment and fiscal multipliers.
 ::: {.column width="33%"}
 ::: {.card}
 ::: {.card-body}
-### Education Outcomes
+### On Going : Dette Publique, les hypothèses d’illusion fiscale et d’égoïsme intergénérationnel a l’épreuve des faits.
 
-Evidence on early interventions and long-term academic performance.
-
+Note fictive à rédiger dans le cours de "Macroeconomic Policies" de A.Bénassy Quéré.
 <span class="tag">Policy</span><span class="tag">Education</span>
 
 <div class="project-links">
 [GitHub](https://github.com/killianlarde)
-[Project PDF](files/projects/education-outcomes.pdf)
-[Research note](files/projects/education-outcomes-note.pdf)
+[Note PDF](files/projects/education-outcomes.pdf)
+
 </div>
 :::
 :::
 :::
 :::
 
-## Additional research
-
-- **Green innovation and local spillovers** — empirical analysis of patent diffusion and productivity gains.
-- **Tax compliance nudges** — randomized field experiment on behavioral policy design.
-- **Urban mobility data** — dashboards for policy evaluation and transportation planning.
